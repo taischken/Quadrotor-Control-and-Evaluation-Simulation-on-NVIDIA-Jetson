@@ -1,1 +1,0 @@
-The zip in this foleder contains the core algorithm that can be built on a Jetson Nano device with gcc 7.5+ and CUDA 10.2. It also includes a CMakeLists.txt with build steps to ease the building process.
